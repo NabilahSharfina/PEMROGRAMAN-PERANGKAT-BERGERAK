@@ -22,6 +22,9 @@
 
 # MODUL 2 - Fundamental Kotlin dan Aplikasi "Hello World!"
 A. Fundamental Kotlin
+<details>
+    <summary>Fundamental Theory</summary>
+ 
  1. Hello World!
     <img src=""></img>
  2. Data Type
@@ -44,6 +47,7 @@ A. Fundamental Kotlin
     <img src=""></img>
  11. For Loop
     <img src=""></img>
+</details>
 
 B. Membuat Aplikasi "Hello World!" di Android Studio
 <details>
