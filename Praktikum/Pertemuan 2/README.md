@@ -48,6 +48,7 @@ A. Fundamental Kotlin
  11. For Loop
     <img src=""></img>
 </details>
+<br>
 
 B. Membuat Aplikasi "Hello World!" di Android Studio
 <details>
@@ -58,11 +59,10 @@ B. Membuat Aplikasi "Hello World!" di Android Studio
     <summary>The Components</summary>
 </details>
 <details>
-    <summary>Layout Validation in Android</summary>
+    <summary>Layout Validation</summary>
     <img src="https://user-images.githubusercontent.com/58089002/152164595-e4668d6d-49a1-4862-bf81-4c3c221550f5.png"></img>
     <img src="https://user-images.githubusercontent.com/58089002/152164732-a1ee8c57-7b39-43c1-97ed-c2a93922961d.png"></img>
-</detail>
-<br>
+</details>
 <br>
 
 # MODUL 3 - "Hello World!" dan Activity Lifecycle
