@@ -46,14 +46,14 @@ A. Fundamental Kotlin
     <img src=""></img>
 
 B. Membuat Aplikasi "Hello World!" di Android Studio
-<detail>
+<details>
     <summary>Create a Project</summary>
     <p></p>
-</detail>
-<detail>
+</details>
+<details>
     <summary>The Components</summary>
-</detail>
-<detail>
+</details>
+<details>
     <summary>Layout Validation in Android</summary>
     <img src="https://user-images.githubusercontent.com/58089002/152164595-e4668d6d-49a1-4862-bf81-4c3c221550f5.png"></img>
     <img src="https://user-images.githubusercontent.com/58089002/152164732-a1ee8c57-7b39-43c1-97ed-c2a93922961d.png"></img>
@@ -62,15 +62,15 @@ B. Membuat Aplikasi "Hello World!" di Android Studio
 <br>
 
 # MODUL 3 - "Hello World!" dan Activity Lifecycle
-<detail>
+<details>
     <summary></summary>
    <img src=""></img>
-</detail>
-<detail>
+</details>
+<details>
     <summary></summary>
     <img src=""></img>
-</detail>
-<detail>
+</details>
+<details>
     <summary></summary>
     <img src=""></img>
-</detail>
+</details>
