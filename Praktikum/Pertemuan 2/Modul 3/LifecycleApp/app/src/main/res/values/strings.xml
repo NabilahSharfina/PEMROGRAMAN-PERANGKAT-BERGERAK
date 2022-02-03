@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lifecycle App</string>
+    <string name="labelName">Nama Mahasiswa</string>
+    <string name="fullName">Nabilah Sharfina</string>
+    <string name="labelNim">NIM Mahasiswa</string>
+    <string name="nim">19104025</string>
+    <string name="changePage">Move Page</string>
+</resources>
