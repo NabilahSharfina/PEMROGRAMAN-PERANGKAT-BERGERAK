@@ -34,23 +34,19 @@
 
 # MODUL 5 - Intent Implicit
 <details>
-    <summary>Activity Lifecycle</summary>
-
-   - Fungsi untuk menampilkan Toast dan Logcat
-
-       - Toast adalah sebuah UI yang mampu menampilkan pesan output menggunakan popup kecil, memiliki batasan sesuai panjang pesan yang di informasikan dan akan menghilang otomatis setelah waktu tertentu [1].
-
-       - Logcat adalah Jendela Android Studio untuk menampilkan pesan sistem, seperti kapan pembersihan sampah memori dilakukan, dan pesan yang telah ditambahkan ke aplikasi dengan class Log. Jendela ini menampilkan pesan secara real time dan menyimpan histori sehingga pesan dapat dlilihat lebih lama. Untuk menampilkan informasi yang diminati saja dapat dibuat sebuah filter, memodifikasi banyaknya informasi yang ditampilkan dalam pesan, menetapkan tingkat prioritas, menampilkan pesan yang dihasilkan oleh kode aplikasi saja, dan menelusuri log. Secara default, logcat menampilkan output log yang terkait dengan aplikasi yang baru saja dijalankan [2].
-    <img src="https://user-images.githubusercontent.com/58089002/152242707-54e9ac5d-2a1f-44cd-a397-c8877310cf5b.jpeg"></img>
-    <img src="https://user-images.githubusercontent.com/58089002/152242886-1b6afda3-b52a-42c5-b5b7-726c041794f3.png"></img>
+    <summary>Running Application</summary>
+    <img src="https://user-images.githubusercontent.com/58089002/152362640-9ea80dca-13a4-4426-87fc-ed9d5a14f306.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/152362657-65a14eef-9a17-42f5-b4eb-1ab31ea65fb3.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/152362621-337e3de0-4c21-4b42-9ac6-011ee58b63b3.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/152362638-11264443-f958-46f8-8840-51c947e6aaa8.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/152362632-23e2bac3-b722-4867-9e5f-90c11c01cd17.jpeg"></img>
 </details>
+<br>
+
+# MODUL 5 - Fragment
 <details>
-    <summary>Activity Two Page</summary>
-    <img src="https://user-images.githubusercontent.com/58089002/152244239-66c362b2-70bb-4d47-be58-bc01699be012.png"></img>
-    <img src="https://user-images.githubusercontent.com/58089002/152244687-864dd62d-3a3b-4f8f-8ee8-081204b74799.png"></img>
-
-   - Output:
-    <img src="https://user-images.githubusercontent.com/58089002/152258212-7a496cbf-3f44-4736-a3d5-7cf4f49df435.jpeg"></img>
-    <img src="https://user-images.githubusercontent.com/58089002/152258223-d6f47fb2-b9e1-4151-a9dd-c31f248934ff.jpeg"></img>
-    <img src="https://user-images.githubusercontent.com/58089002/152258093-f800feec-7e81-4fd1-9587-79d25b372132.png"></img>
+    <summary>Running Application</summary>
+    <img src=""></img>
+    <img src=""></img>
 </details>
+<br>
