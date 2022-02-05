@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Modul 9 - Shared Preferences</string>
+    <string name="name">Name</string>
+    <string name="default_name">No Name</string>
+    <string name="email">E-Mail</string>
+    <string name="default_email">No E-Mail</string>
+    <string name="phone">Phone Number</string>
+    <string name="default_phone">No Phone Number</string>
+    <string name="age">Age</string>
+    <string name="default_age">No Age</string>
+    <string name="land">Native Land</string>
+    <string name="default_land">No Land</string>
+    <string name="job">Job</string>
+    <string name="default_job">No Job</string>
+    <string name="tv_theme">Theme Mode</string>
+    <string name="default_theme">System Default</string>
+    <string name="setting">SETTING</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">SAVE</string>
+    <string name="setting_page">Setting Page</string>
+    <string name="field_required">Kolom tidak boleh kosong</string>
+    <string name="email_is_not_valid">Email tidak sesuai format</string>
+    <string name="field_digit_only">Hanya angka yang diperbolehkan</string>
+</resources>
