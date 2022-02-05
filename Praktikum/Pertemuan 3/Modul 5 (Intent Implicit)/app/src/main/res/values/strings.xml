@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modul 5 - Intent Implicit</string>
+    <string name="hint_input_prodi">Input Prodi</string>
+    <string name="btn_prodi">Bring data prodi to other activity</string>
+    <string name="btn_call_browser">Open Browser</string>
+    <string name="btn_call_camera">Open Camera</string>
+    <string name="hint_input_number">Input Phone Number</string>
+    <string name="btn_call_phone">Phone Call</string>
+</resources>
