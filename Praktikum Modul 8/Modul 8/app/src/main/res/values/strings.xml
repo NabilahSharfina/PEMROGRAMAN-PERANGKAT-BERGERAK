@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Modul 8</string>
+    <string name="check_sms_permission">Modul 8 (1)</string>
+    <string name="coming_from">Modul 8 (2)</string>
+    <string name="this_play">Modul 8 (3)</string>
+    <string name="close">Modul 8 (4)</string>
+    <string name="incoming_message">Modul 8 (5)</string>
+
+    <style name="SmsReceiverTheme" parent="Theme.AppCompat.Light.Dialog"/>
+</resources>
