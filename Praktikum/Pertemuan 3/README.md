@@ -46,7 +46,9 @@
 # MODUL 5 - Fragment
 <details>
     <summary>Running Application</summary>
-    <img src="https://user-images.githubusercontent.com/58089002/152380903-6635e296-ce83-45a2-a252-45dad7adf4fb.jpeg"></img>
-    <img src="https://user-images.githubusercontent.com/58089002/152380912-0ba0c044-a7ef-4fef-b584-9be825ac3618.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/153031013-c354827f-4ea9-4318-ad68-7c72caa53e1b.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/153030980-85cb5739-1766-4d1e-8d57-c1cd9837a036.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/153030988-b6dcd7c0-6308-4f02-824f-5e85b1380ae3.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/58089002/153030995-cbdfb7ec-a9cc-420c-b4fb-88208551f097.jpeg"></img>
 </details>
 <br>
