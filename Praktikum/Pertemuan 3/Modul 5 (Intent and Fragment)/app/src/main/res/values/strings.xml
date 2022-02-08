@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Modul 5 - Intent and Fragment</string>
+    <string name="hint_input_prodi">Input Prodi</string>
+    <string name="btn_prodi">Bring Data Prodi to Other Activity</string>
+    <string name="btn_call_browser">Open Browser</string>
+    <string name="btn_call_camera">Open Camera</string>
+    <string name="hint_input_number">Input Phone Number</string>
+    <string name="btn_call_phone">Phone Call</string>
+    <string name="open_fragment">Open the Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Blank Fragment!</string>
+    <string name="inputName">Input Name</string>
+    <string name="inputNim">Input NIM</string>
+    <string name="btn_second_fragment">Go to Second Fragment</string>
+    <string name="fragment_second">Second Fragment</string>
+    <string name="btn_back_home">Back to Home</string>
+</resources>
