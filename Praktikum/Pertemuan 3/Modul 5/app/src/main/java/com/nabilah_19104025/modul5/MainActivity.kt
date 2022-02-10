@@ -57,7 +57,6 @@ class MainActivity : AppCompatActivity() {
             btnFragment.setOnClickListener {
                 startActivity(Intent(this@MainActivity, ForFragmentActivity::class.java))
             }
-
         }
         setupPermissions()
     }
