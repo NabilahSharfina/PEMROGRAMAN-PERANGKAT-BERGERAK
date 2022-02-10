@@ -5,7 +5,17 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:orientation="vertical"
-    tools:context=".SmsReceiverActivity">
+    tools:context=".smsReceiverActivity">
+
+    <TextView
+        android:id="@+id/tvPenipuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PENIPUAN HATI-HATI !!"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:textSize="18sp"
+        android:textColor="@android:color/holo_red_dark" />
 
     <TextView
         android:id="@+id/tv_from"
@@ -18,7 +28,6 @@
         android:id="@+id/tv_message"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/this_play"
         android:textSize="18sp"
         android:layout_marginBottom="16dp"/>
 

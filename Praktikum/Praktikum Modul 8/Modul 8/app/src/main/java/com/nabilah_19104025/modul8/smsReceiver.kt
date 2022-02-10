@@ -21,10 +21,10 @@ class smsReceiver : BroadcastReceiver() {
                     val senderNum = currentMessage.displayOriginatingAddress.toString()
                     val message = currentMessage.displayMessageBody
                     Log.d(TAG, "senderNum: $senderNum; message: $message")
-                    val showSmsIntent = Intent(context, SmsReceiverActivity::class.java)
+                    val showSmsIntent = Intent(context, smsReceiverActivity::class.java)
                     showSmsIntent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
-                    showSmsIntent.putExtra(SmsReceiverActivity.EXTRA_SMS_NO, senderNum)
-                    showSmsIntent.putExtra(SmsReceiverActivity.EXTRA_SMS_MESSAGE, message)
+                    showSmsIntent.putExtra(smsReceiverActivity.EXTRA_SMS_NO, senderNum)
+                    showSmsIntent.putExtra(smsReceiverActivity.EXTRA_SMS_MESSAGE, message)
                     context.startActivity(showSmsIntent)
                 }
             }

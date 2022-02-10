@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Modul8">
         <activity
-            android:name=".SmsReceiverActivity"
+            android:name=".smsReceiverActivity"
             android:exported="false" />
 
         <receiver
