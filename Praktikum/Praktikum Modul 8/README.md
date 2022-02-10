@@ -22,7 +22,14 @@
 
 # MODUL 8 - Broadcast Receiver
 <details>
-    <summary>Running of Network Broadcast Receiver</summary>
+    <summary>Broadcast Receiver</summary>
+
+   <img src="https://user-images.githubusercontent.com/58089002/153381945-dcc4ecd9-246c-4cb8-aeb8-6c7c3a0204e1.jpeg"></img>
+   <img src="https://user-images.githubusercontent.com/58089002/153381950-f97a7f16-8be6-4383-a826-23535a80198d.jpeg"></img>
+   <img src="https://user-images.githubusercontent.com/58089002/153381955-705f625b-816a-4b2a-a514-a1d379043a66.jpeg"></img>
+</details>
+<details>
+    <summary>Network Broadcast Receiver</summary>
 
 1. Tampilan ketika saya menggunakan data seluler.
    <img src="https://user-images.githubusercontent.com/58089002/152634253-732fe4af-f5c5-445c-a92f-c4cb34cea9a3.jpeg"></img>
@@ -32,4 +39,3 @@
    <img src="https://user-images.githubusercontent.com/58089002/152634255-de8f61ea-97c3-40bc-a542-43392c9288f1.jpeg"></img>
    <img src="https://user-images.githubusercontent.com/58089002/152634275-8f27c6ac-817f-40b5-beb4-3222c139dadd.jpeg"></img>
 </details>
-<br>
