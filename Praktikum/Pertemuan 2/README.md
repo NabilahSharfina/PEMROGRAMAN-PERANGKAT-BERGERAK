@@ -51,7 +51,6 @@ A. Fundamental Kotlin
     <img src="https://user-images.githubusercontent.com/58089002/152231831-497b5aa5-23f6-4322-8299-ddc9f4d40323.png"></img>
     <img src="https://user-images.githubusercontent.com/58089002/152232016-7015bf86-0e41-435c-8b33-5fdaa94a48f3.png"></img>
 </details>
-<br>
 
 B. Membuat Aplikasi "Hello World!" di Android Studio
 <details>
@@ -90,6 +89,10 @@ B. Membuat Aplikasi "Hello World!" di Android Studio
       - Layout, semua layout activity ada pada folder ini.
       - Mipmap, folder ini berisikian icons aplikasi.
       - Value, beriskikan beberapa berkas seperti strings dan colors.
+    
+    e. res (generated)
+
+    f. gradle
 
 2. Tab "Project", menyembunyikan dan menampilkan project view.
 3. Tampilan "Android", menampilkan project yang digunakan saat ini.
@@ -102,9 +105,7 @@ B. Membuat Aplikasi "Hello World!" di Android Studio
 3. Pilih menu "View" -> "Tools Windows" -> "Emulator" atau pilih folder "res" -> "layout" -> "activity_main.xml" -> "Layout Validation".
    - Tampilannya seperti berikut:
     <img src="https://user-images.githubusercontent.com/58089002/152237589-07077c8d-cd20-415e-b816-2d12a73ce345.jpeg"></img>
-    <img src="https://user-images.githubusercontent.com/58089002/152164732-a1ee8c57-7b39-43c1-97ed-c2a93922961d.png"></img>
 </details>
-<br>
 
 # MODUL 3 - "Hello World!" dan Activity Lifecycle
 <details>
